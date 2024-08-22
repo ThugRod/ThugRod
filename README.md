@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Computer Engineering Course in college
 - 💞️ I’m looking to collaborate on easy going projects for a very junior programmer
 - 📫 How to reach me You can reach me here or at rbkamedia@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Still ain't got a clue on what I'm doing
 
 <!---
