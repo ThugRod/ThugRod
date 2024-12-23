@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on easy going projects for a very junior programmer
 - 📫 You can reach me here or at rbkamedia@gmail.com
 - ⚡ Fun fact: Still ain't got a clue on what I'm doing
+-  I'm pretty good at Java, C# and I've dabbled with a bit of Python lately.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThugRod&hide=javascript,css,scss,html&theme=tokyonight)
