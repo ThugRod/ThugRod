@@ -1,13 +1,34 @@
-- 👋 Hi, I’m Reilly, my username across most my platforms is ThugRod (It's just a funny username)
-- 👀 I’m interested in learning and intaking as much progamming knowledge as I can, if you have any projects that you want to team up for, let me know!
-- 🌱 I’m currently studying a Computer Science Course in college
-- 💞️ If anyone is willing to mentorship, please reach out
-- 📫 You can reach me here or at rbkamedia@gmail.com
-- ⚡ Fun fact: Still ain't got a clue on what I'm doing
--  I am proficient with Java, C#, HTTP, and MySQL. Learning JavaScript, C++ and Python currently.
+# Hello and welcome good folk, I'm Reilly
 
+## My Tech Stack
+**Programming Languages:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThugRod&hide=javascript,css,scss,html&theme=tokyonight)
+- Java(Advanced)
+- C#(Advanced)
+- JS(Advanced)
+- Python(Intermediate/Advanced)
+- C++(Basic)
+**Databases:**
+  
+- MySQL(Advanced)
+- PostgreSQL(Advanced)
+- MongoDB(Intermediate)
+**Frameworks & Tools:**
+  
+- Git(Advanced)
+- Docker(Intermediate)
+- React(Basic)
+- Node.js(Basic)
+
+## Some more about me
+- I’m always working on something. I prefer game oriented development, but I do enjoy backend software dev as well.
+- I’m currently studying a Computer Science Course in college
+- I'm always willing to learn if people are willing to teach
+- You can reach me here or at rbkamedia@gmail.com
+## Current Projects / Interests
+- Completing Computer Science Degree
+- Working on my own game development project
+
 
 <!---
 ThugRod/ThugRod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
