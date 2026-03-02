@@ -8,11 +8,13 @@
 - JS(Advanced)
 - Python(Intermediate/Advanced)
 - C++(Basic)
+
 **Databases:**
   
 - MySQL(Advanced)
 - PostgreSQL(Advanced)
 - MongoDB(Intermediate)
+
 **Frameworks & Tools:**
   
 - Git(Advanced)
