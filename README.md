@@ -3,30 +3,31 @@
 ## My Tech Stack
 **Programming Languages:**
 
-- Java(Advanced)
-- C#(Advanced)
-- JS(Advanced)
-- Python(Intermediate/Advanced)
-- C++(Basic)
+- Java
+- C#
+- JS
+- PHP
+- Dart
+- Python
 
 **Databases:**
   
-- MySQL(Advanced)
-- PostgreSQL(Advanced)
-- MongoDB(Intermediate)
+- MySQL
+- PostgreSQL
+- MongoDB
 
 **Frameworks & Tools:**
   
-- Git(Advanced)
-- Docker(Intermediate)
-- React(Basic)
-- Node.js(Basic)
+- Git
+- Docker
+- React
+- Node.js
 
 ## Some more about me
-- I’m always working on something. I prefer game oriented development, but I do enjoy backend software dev as well.
-- I’m currently studying a Computer Science Course in college
-- I'm always willing to learn if people are willing to teach
-- You can reach me here or at rbkamedia@gmail.com
+- I’m always working on something. I prefer game oriented development projects, but I do enjoy backend software dev as well.
+- I’m currently studying a Computer Science Course in college.
+- I'm always willing to learn if there's people teaching. 
+- You can reach me in my discord or you can send an email to me.
 ## Current Projects / Interests
 - Completing Computer Science Degree
 - Working on my own game development project
