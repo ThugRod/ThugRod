@@ -30,10 +30,10 @@ Tooling: Git · Docker · Azure
 ## Reach me
 
 
-Résumé / portfolio: (coming soon - site in progress)
-LinkedIn: (https://www.linkedin.com/feed/)
-Email: rbkamedia@gmail.com
-Discord: ThugRod
+| Résumé / portfolio: (coming soon - site in progress) ||
+LinkedIn: (https://www.linkedin.com/feed/) ||
+Email: rbkamedia@gmail.com ||
+Discord: ThugRod |
 
 
 <!---
