@@ -38,7 +38,7 @@ Tooling: Git · Docker · Azure
 
 Résumé / portfolio: (coming soon - site in progress)
 
-LinkedIn: [https://www.linkedin.com/in/reilly-antoine-b53903300/]
+LinkedIn: https://www.linkedin.com/in/reilly-antoine-b53903300/
 
 Email: rbkamedia@gmail.com
 
